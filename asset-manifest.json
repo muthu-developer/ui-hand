@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/ui-hand/static/css/main.c5ae828b.chunk.css",
+    "main.js": "/ui-hand/static/js/main.3b1428c0.chunk.js",
+    "main.js.map": "/ui-hand/static/js/main.3b1428c0.chunk.js.map",
+    "runtime-main.js": "/ui-hand/static/js/runtime-main.7bc0d4bb.js",
+    "runtime-main.js.map": "/ui-hand/static/js/runtime-main.7bc0d4bb.js.map",
+    "static/js/2.89455fc1.chunk.js": "/ui-hand/static/js/2.89455fc1.chunk.js",
+    "static/js/2.89455fc1.chunk.js.map": "/ui-hand/static/js/2.89455fc1.chunk.js.map",
+    "static/js/3.3c54009c.chunk.js": "/ui-hand/static/js/3.3c54009c.chunk.js",
+    "static/js/3.3c54009c.chunk.js.map": "/ui-hand/static/js/3.3c54009c.chunk.js.map",
+    "index.html": "/ui-hand/index.html",
+    "static/css/main.c5ae828b.chunk.css.map": "/ui-hand/static/css/main.c5ae828b.chunk.css.map",
+    "static/js/2.89455fc1.chunk.js.LICENSE.txt": "/ui-hand/static/js/2.89455fc1.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/ui-hand/static/media/PublicSans-Regular.868a69bb.woff2",
+    "static/media/banner-hero.2acaffe2.png": "/ui-hand/static/media/banner-hero.2acaffe2.png",
+    "static/media/electronics-img.a8fb2045.jpg": "/ui-hand/static/media/electronics-img.a8fb2045.jpg",
+    "static/media/jewelery.6054ca96.jpeg": "/ui-hand/static/media/jewelery.6054ca96.jpeg",
+    "static/media/mens-clothing.3f14b9bd.jpg": "/ui-hand/static/media/mens-clothing.3f14b9bd.jpg",
+    "static/media/womens-clothing.b0bf8796.jpg": "/ui-hand/static/media/womens-clothing.b0bf8796.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7bc0d4bb.js",
+    "static/js/2.89455fc1.chunk.js",
+    "static/css/main.c5ae828b.chunk.css",
+    "static/js/main.3b1428c0.chunk.js"
+  ]
+}
